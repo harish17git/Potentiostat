@@ -47,6 +47,7 @@ Analog to digital converter for signal acquisition
 Voltammetry amplifier using transimpedance amplifier
 Electrode interface with three-electrode configuration
 Optional display or wireless communication module
+![Device Image](block.PNG)
 
 ---
 

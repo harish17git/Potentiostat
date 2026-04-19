@@ -114,7 +114,7 @@ Development of multi-analyte detection systems
 ## Author
 
 Harish
-Final Year Biomedical Engineering
+(Final Year Biomedical Engineering)
 
 ---
 
